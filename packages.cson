@@ -1,0 +1,10 @@
+packages: [
+  "docker"
+  "git-plus"
+  "language-docker"
+  "package-sync"
+  "react"
+  "tester"
+  "tester-jest"
+  "vim-mode-plus"
+]
