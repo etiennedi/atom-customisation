@@ -1,4 +1,5 @@
 "*":
+  "atom-ternjs": {}
   core:
     telemetryConsent: "limited"
     themes: [
@@ -9,3 +10,7 @@
     fontSize: 22
   "exception-reporting":
     userId: "fd64e921-4112-48e0-9132-9fb08e1817df"
+  "linter-eslint":
+    fixOnSave: true
+  welcome:
+    showOnStartup: false

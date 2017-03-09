@@ -7,3 +7,4 @@ storage
 .npm
 .DS_Store
 packages
+npm-debug.log

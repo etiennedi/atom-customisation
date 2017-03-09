@@ -1,7 +1,12 @@
 packages: [
+  "atom-coverage"
+  "atom-ternjs"
   "docker"
+  "file-icons"
   "git-plus"
   "language-docker"
+  "linter"
+  "linter-eslint"
   "package-sync"
   "react"
   "tester"
